@@ -13,9 +13,11 @@ Existen dudas clave:
 ## 📂 Dataset del proyecto (Exploración, Limpieza y Cálculos KPIs)
 El análisis comienza con tres fuentes principales:
 
-rappiplus_orders_raw.csv
-rappiplus_catalog.csv
-rappiplus_marketing_spend.csv
+-rappiplus_orders_raw.csv
+
+-rappiplus_catalog.csv
+
+-rappiplus_marketing_spend.csv
 
 https://practicum-content.s3.amazonaws.com/datasets/rappiplus_orders_raw.csv
 https://practicum-content.s3.amazonaws.com/datasets/rappiplus_catalog.csv
