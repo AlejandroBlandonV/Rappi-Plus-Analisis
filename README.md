@@ -13,15 +13,15 @@ Existen dudas clave:
 ## 📂 Dataset del proyecto (Exploración, Limpieza y Cálculos KPIs)
 El análisis comienza con tres fuentes principales:
 
--rappiplus_orders_raw.csv
+-rappiplus_orders_raw.csv: https://practicum-content.s3.amazonaws.com/datasets/rappiplus_orders_raw.csv
 
--rappiplus_catalog.csv
+-rappiplus_catalog.csv: https://practicum-content.s3.amazonaws.com/datasets/rappiplus_catalog.csv
 
--rappiplus_marketing_spend.csv
 
-https://practicum-content.s3.amazonaws.com/datasets/rappiplus_orders_raw.csv
-https://practicum-content.s3.amazonaws.com/datasets/rappiplus_catalog.csv
-https://practicum-content.s3.amazonaws.com/datasets/rappiplus_marketing_spend.csv
+-rappiplus_marketing_spend.csv: https://practicum-content.s3.amazonaws.com/datasets/rappiplus_marketing_spend.csv
+
+
+
 
 ## 📂 Dataset del proyecto (Funnel y Cohortes)
 
@@ -37,8 +37,8 @@ Tabla user_activity → Actividad de los usuarios después del registro.
 ## 📂 Dataset del proyecto (A/B Testing)
 Para este análisis se utilizará la siguiente tabla:
 
-📄 /datasets/experiment_checkout_ui.csv
-https://practicum-content.s3.amazonaws.com/datasets/experiment_checkout_ui.csv
+📄 /datasets/experiment_checkout_ui.csv: https://practicum-content.s3.amazonaws.com/datasets/experiment_checkout_ui.csv
+
 
 Cada fila representa la participación de un usuario en un experimento (A/B testing).
 
